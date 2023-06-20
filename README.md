@@ -62,7 +62,7 @@ For both browsers and Node.js:
 rollup main.js --format umd --name "myBundle" --file bundle.js
 ```
 
-## Why
+## Why test
 
 Developing software is usually easier if you break your project into smaller separate pieces, since that often removes unexpected interactions and dramatically reduces the complexity of the problems you'll need to solve, and simply writing smaller projects in the first place [isn't necessarily the answer](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4). Unfortunately, JavaScript has not historically included this capability as a core feature in the language.
 
